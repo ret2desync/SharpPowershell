@@ -1,0 +1,10 @@
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\bin\Release\PowershellCLMAmsiBypass.exe.config
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\bin\Release\PowershellCLMAmsiBypass.exe
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\bin\Release\PowershellCLMAmsiBypass.pdb
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\bin\Release\System.Management.Automation.dll
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.csproj.AssemblyReference.cache
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.csproj.CoreCompileInputs.cache
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.csproj.CopyComplete
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.exe
+C:\Users\caellij\Tools\CustomScripts\PowershellCLMAmsiBypass\PowershellCLMAmsiBypass\obj\Release\PowershellCLMAmsiBypass.pdb

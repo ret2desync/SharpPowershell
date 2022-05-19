@@ -1,0 +1,10 @@
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\bin\Release\SharpPowershell.exe.config
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\bin\Release\SharpPowershell.exe
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\bin\Release\SharpPowershell.pdb
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\bin\Release\System.Management.Automation.dll
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.csproj.AssemblyReference.cache
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.csproj.CoreCompileInputs.cache
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.csproj.CopyComplete
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.exe
+C:\Users\caellij\Tools\CustomScripts\SharpPowershell\SharpPowershell\obj\Release\SharpPowershell.pdb
