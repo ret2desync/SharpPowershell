@@ -1,1 +1,1 @@
-# SharpPowershellCLMAmsiBypass
+# SharpPowershell
